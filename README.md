@@ -1,0 +1,2 @@
+# Product-Showcase
+ Este projeto uma aplicação React que permite ao usuário visualizar informações sobre produtos (como Notebook, Smartphone e Tablet) com um simples clique. Ao selecionar um produto, a aplicação faz uma requisição à API e exibe os dados do produto, incluindo nome, imagem e preço. Durante o carregamento dos dados, uma mensagem de "Carregando..." é exibida até que as informações estejam prontas.
